@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #5287c0cc, #04aa44d2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body{
+    height: 200px;
+background: linear-gradient(45deg, #EECFBA, #c7ff99cb);
+}
+table{
+    border: 1.5px solid ;
+    text-align: center;
+    border-color: darkgreen;
+    border-collapse: collapse;
+    width: 1850px; height: 850px; 
+}
+tr,td{
+    border: 1.5px solid ;
+    border-color: darkgreen;
+    padding: 10px;
+    width: 150px;
+    height: 100px;
+
+}
+.first{
+    background: linear-gradient(45deg, #a5f5a2, #ffddc7);
+}
+
