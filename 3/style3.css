@@ -1,0 +1,47 @@
+body{
+    p.exserif { font-family: "sans-serif", Times, serif; }
+}
+.content1{
+    border: 2px solid black;
+    position: relative;
+    width: 26%;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 0 20px black ;
+    padding: 15px;
+}
+.content2{
+    border: 2px solid black;
+    position: relative;
+    width: 62%;
+    margin: 10px;
+    box-shadow: 0 0 20px black; 
+    padding: 15px;
+}
+
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-left: 10px;
+}
+img{
+    margin: 10px;
+}
+button{
+    font-size: 20px;
+    color: white;
+    border: 0px;
+    background: rgb(173, 255, 187);
+    height: 70px;
+    width: 200px;
+    margin: 10px;
+}
+button:hover{
+    font-size: 120%;
+    background: rgb(23, 207, 63);
+    box-shadow: 0 0 20px rgb(80, 80, 80); 
+    padding: 10px;
+    
+}
+}
