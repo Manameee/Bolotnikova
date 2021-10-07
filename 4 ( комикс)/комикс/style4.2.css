@@ -1,0 +1,56 @@
+
+.div1{
+    border: 0px solid black;
+    background-image: url(./1.jpg);
+    background-size: 100%; 
+    position: absolute;
+    width: 1120px;
+    height: 320px;
+}
+.div2{
+    border: 0px solid rgb(255, 0, 0);
+    background-image: url(./2.jfif);
+    background-size: 100%; 
+    position: absolute;
+    width: 800px;
+    height: 320px;
+    margin-left: 1120px;
+}
+.div3{
+    border: 0px solid rgb(0, 17, 255);
+    background-image: url(./3.jfif);
+    background-size: 100%; 
+    position: absolute;
+    width: 600px;
+    height: 320px;
+    margin-top: 320px;
+}
+.div4{
+    border: 0px solid rgb(255, 230, 0);
+    background-image: url(./4.jpg);
+    background-size: 100%; 
+    position: absolute;
+    width: 1320px;
+    height: 320px;
+    margin-top: 320px;
+    margin-left: 600px;
+}
+.div5{
+    border: 0px solid rgb(183, 0, 255);
+    background-image: url(./5.jfif);
+    background-size: 100%; 
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    margin-top: 640px;
+}
+.div6{
+    border: 0px solid rgb(4, 0, 255);
+    background-image: url(./6.jpg);
+    background-size: 100%; 
+    position: absolute;
+    width: 1520px;
+    height: 300px;
+    margin-top: 640px;
+    margin-left: 400px;
+}

@@ -1,0 +1,58 @@
+.div1{
+    border: 3px solid black;
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    margin-top: 10px;
+}
+.div2{
+    border: 3px solid rgb(255, 0, 0);
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    margin-top: 431px;
+}
+.div3{
+    border: 3px solid rgb(0, 17, 255);
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 321px;
+}
+.div4{
+    border: 3px solid rgb(255, 230, 0);
+    position: absolute;
+    width: 300px;
+    height: 340px;
+    margin-top: 130px;
+    margin-left: 321px;
+}
+.div5{
+    border: 3px solid rgb(183, 0, 255);
+    position: absolute;
+    width: 300px;
+    height: 260px;
+    margin-top: 490px;
+    margin-left: 321px;
+}
+.a{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
+.b{
+    color: rgb(255, 0, 0);
+    margin: 10px;
+}
+.c{
+    color: rgb(0, 17, 255);
+    margin: 10px;
+}
+.d{
+    color: rgb(255, 230, 0);
+    margin: 10px;
+}
+.e{
+    color: rgb(183, 0, 255);
+    margin: 10px;
+}
