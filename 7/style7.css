@@ -1,0 +1,163 @@
+.first{
+    margin-top: 0px;
+    height: 620px;
+    width: 100%;
+
+}
+.Startup{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin: 20px;
+    margin-top: -8px;
+}
+.hh1{
+    width: 1030px;
+    margin: 0 auto;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    margin-left: 50px;
+    margin-top: -4%;
+    display: block;
+}
+  
+.menu li{
+    float: left;
+    display: block;
+    margin-right: 41px;
+}
+  
+.menu li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.mennu{
+    margin-top: 0%;
+    margin-left: 35%;
+}
+.two{ 
+    margin-top: 258px;
+    margin-left: 280px;
+}
+.w1{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-left: -35px;
+    font-size: 50px;
+}
+.w2{
+    color: white;
+    font-size: 20px;
+    margin-left: 34px;
+}
+.button {
+    background-color: #ffffff00;
+    border: 2px rgb(255, 255, 255) solid;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 10%;
+    width: 240px;
+}
+.button:hover{
+    background: white;
+    color: rgb(255, 0, 0);
+    border: rgba(255, 255, 255, 0);
+    border: 4px;
+}
+header {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.473)), url("./photo.jpeg") center center no-repeat;
+    background-size: cover;
+}
+.second{
+    background: rgb(255, 255, 255);
+}
+h1,h2,p{
+    font-family: 'Montserrat', sans-serif;
+}
+.third{
+    background: rgb(255, 0, 0);
+}
+hr{
+    border: none;
+    background-color: grey;
+    height: 2.5px;
+    width: 70px;
+    }
+.lorem{
+    font-size: 30px;
+}
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-left: 10px;
+}
+.cont1{
+    border: 0px solid black;
+    position: relative;
+    width: 28%;
+    margin: 10px;
+    padding: 15px;
+}
+.cont2{
+    border: 0px solid black;
+    position: relative;
+    width: 28%;
+    margin: 10px; 
+    padding: 15px;
+}
+.cont3{
+    border: 0px solid black;
+    position: relative;
+    width: 28%;
+    margin: 10px; 
+    padding: 15px;
+}
+.icon{
+    color: red;
+    margin: 10px;
+    font-size: 300%;
+}
+.bord{
+    border: 2px solid rgb(165, 165, 165);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    .icon-position: center;
+    margin: 0 auto;
+}
+.icon:hover{
+    color: rgb(255, 255, 255);
+}
+.bord:hover{
+    background: rgb(255, 0, 0);
+}
+.lp{
+    color: rgb(255, 255, 255);
+    font-size: 80%;
+}
+.last{
+    color: rgb(255, 255, 255);
+    font-size: 250%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.bord2{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    position: center;
+    margin: 0px;
+}
