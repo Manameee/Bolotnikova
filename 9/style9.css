@@ -1,0 +1,42 @@
+.nazva{
+    font-size: 70px;
+    color: rgb(236, 170, 46);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(36 30 0);
+}
+.danni{
+    height: auto;
+    width: 120px;
+}
+.form{
+    position: absolute;
+    height: 430px;
+    width: 250px;
+    background: rgb(203 164 24);
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 7px 3px #a39e0b;
+    text-indent: 30px;
+    padding: 10px 20px 10px 20px;
+    margin-top: -16px;
+    margin-left: 40px;
+}
+.form1{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+body{
+    background-image: url(./photo1635439491.jpeg);
+    background-size: 100%;
+}
+.piii{
+    margin-top: -35px;
+    margin-left: 585px;
+    position: absolute;
+    
+}
+.pii{
+    height: 500px;
+    width: auto;
+}
