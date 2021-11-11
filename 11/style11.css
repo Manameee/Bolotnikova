@@ -1,0 +1,122 @@
+body{
+    background: rgb(221, 221, 221);
+}
+* {
+    box-sizing: border-box;
+}
+.transparent {
+    position: relative;
+    max-width: 560px;
+    padding: 50px 40px;
+    margin: 30px auto 0;
+    background-image: url(./pizza.jpeg);
+    background-size: cover;
+    box-shadow: 0 0 20px 9px #292929b6;
+}
+.transparent:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.281), rgba(255, 165, 165, 0.4));
+}
+.form-inner {
+    position: relative;
+}
+.form-inner h3 {
+    position: relative;
+    margin-top: 0;
+    color: rgba(255, 255, 255, 0.918);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+.form-inner h3:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    height: 2px;
+    width: 90px;
+    background: #614848;
+}
+.form-inner label{
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(44, 44, 44, 0.733);
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.form-inner input{
+    padding: 0 15px;
+    margin: 10px 0 15px;
+    border-width: 0;
+    line-height: 40px;
+    border-radius: 20px;
+    color: white;
+    background: rgba(17, 17, 17, 0.486);
+    font-family: 'Roboto', sans-serif;
+}
+ 
+.form-inner input[type="submit"]{
+    background: #d696209d;
+    border: 2px rgba(255, 255, 255, 0) solid;
+} 
+ .form-inner input[type="submit"]:hover{
+    background: #ff880027;
+    color: rgb(56, 56, 56);
+    border: 2px rgb(56, 56, 56) solid;
+}
+.lala{
+    width: 100%;
+}
+.photo{
+    position: absolute;
+    height: 100px;
+    width: auto;
+    margin-top: -87px;
+    margin-left: 327px;
+}
+.photo:hover{
+    height: 120px;
+    width: auto;
+    margin-left: 320px;
+    margin-top: -95px;
+}
+a{
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.61);
+}
+a:visited{
+    color: rgba(0, 0, 0, 0.616);
+} 
+.nazva{
+    font-size: 70px;
+    color: rgb(241, 219, 177);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(99, 94, 80);
+    margin-top: -8px;
+}
+h3{
+    margin-left: 44px;
+}
+.pol{
+    width: 500px;
+    height: 13px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.692);
+}
+.bbb{
+    position: absolute;
+    margin-left: 1000px;
+    font-size: 20px;
+    color: rgb(245, 245, 245);
+    border: 0px;
+    background: rgb(247, 236, 164);
+    height: 70px;
+    width: 200px;
+    box-shadow: 0 0 20px 9px #535353b6;
+}
