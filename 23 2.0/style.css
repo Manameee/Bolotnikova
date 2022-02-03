@@ -2,7 +2,8 @@
 .btn {
     width: 60px;
     height: 60px;
-    background: rgb(255, 179, 238);
+    /* background: rgb(255, 179, 238); */
+    background-image: url(./images.jpg);
     display: inline-block;
     text-align: center;
     line-height: 60px;
@@ -10,7 +11,7 @@
 }
 
 .btn:hover {
-    background: #f70;
+    background: rgb(179, 255, 164);
     color: #fff;
 }
 
@@ -18,7 +19,8 @@
     padding: 10px;
     width: 100%;
     text-align: center;
-    background: rgb(220, 228, 231);
+    /* background: rgb(220, 228, 231); */
+    background-image: url(./images\ 2.jpg);
 }
 
 #calc {
