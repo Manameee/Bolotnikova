@@ -1,0 +1,75 @@
+.vse{
+    position: absolute;
+    height: 240px;
+    width: 300px;
+    border: 2px rgb(72, 102, 58) double;
+    background: #80b46fd8;
+}
+#num1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 30px;
+    width: auto;
+    color: rgb(31, 88, 29);
+    background: #ecfacb;
+}
+
+#num2{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    height: 30px;
+    width: auto;
+    color: rgb(31, 88, 29);
+    background: #ecfacb;
+}
+
+#plus{
+    position: absolute;
+    top: 10px;
+    left: 212px;
+    height: 20px;
+    width: 70px;
+    background: #dbedb1;
+}
+#minus{
+    position: absolute;
+    top: 40px;
+    left: 212px;
+    height: 20px;
+    width: 70px;
+    background: #dbedb1;
+}
+#times{
+    position: absolute;
+    top: 70px;
+    left: 212px;
+    height: 20px;
+    width: 70px;
+    background: #dbedb1;
+}
+#divide{
+    position: absolute;
+    top: 100px;
+    left: 212px;
+    height: 20px;
+    width: 70px;
+    background: #dbedb1;
+}
+
+.ravno{
+    position: absolute;
+    top: 135px;
+    left: 11px;
+    height: 30px;
+    width: 128px;
+    background: #dbedb1;
+}
+
+#result{
+    position: absolute;
+    top: 177px;
+    left: 12px;
+    color: rgb(31, 88, 29);
+}

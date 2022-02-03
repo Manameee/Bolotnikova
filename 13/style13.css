@@ -1,0 +1,11 @@
+body{
+    background: rgb(211, 211, 211);
+}
+.col{
+    border: 2px rgb(107, 107, 107) solid;
+    background: rgb(167, 167, 167);
+}
+.col-sm-4{
+    border: 2px rgb(107, 107, 107) solid;
+    background: rgb(167, 167, 167);
+}
